@@ -1,5 +1,6 @@
 # Privacy-Preserving Federated Learning-Based Intrusion Detection System for IoHT Devices
 
+This project implements a federated learning-based intrusion detection system (IDS) for Internet of Healthcare Things (IoHT) devices, ensuring privacy preservation and security in healthcare environments. The model is designed to detect anomalous activities while maintaining the confidentiality of sensitive patient data by leveraging federated learning (FL) and differential privacy techniques.
 # Dataset Used
 - wustl-ehms-2020 https://www.cse.wustl.edu/~jain/ehms/index.html
 - ECU-IoHT  https://ro.ecu.edu.au/datasets/48/
